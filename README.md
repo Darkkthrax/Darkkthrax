@@ -15,6 +15,6 @@ Python · PHP · JavaScript · HTML · CSS · MySQL · SQLite3 · Tkinter · Wor
 
 ## Proyectos destacados
 
-- **Sistema de Facturación** - App de escritorio en Python/Tkinter para gestión de supermercado.
+- **Sistema de Facturación** - App de escritorio en Python/Tkinter para gestión de supermercado. [Repositorio](https://github.com/Darkkthrax/Proyecto-Facturacion) 
 - **Sitio Web B4B Soluciones** - [b4bsoluciones.com](https://b4bsoluciones.com/).
 - **Mercatto - E-Commerce Emprendimientos** - E-Commerce web para emprendimientos emergentes. Actualmente en privado.
